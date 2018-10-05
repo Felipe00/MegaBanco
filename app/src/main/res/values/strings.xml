@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MegaBanco666</string>
+    <string name="title_home">Saldo</string>
+    <string name="title_dashboard">Depositar</string>
+    <string name="title_notifications">Sacar</string>
+
+    <string name="saldo_label">Saldo</string>
+</resources>
